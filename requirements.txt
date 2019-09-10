@@ -1,0 +1,11 @@
+Django==2.2.5
+django-pgviews==0.5.5
+djangorestframework==3.10.3
+numpy==1.17.2
+pandas==0.25.1
+psycopg2-binary==2.8.3
+python-dateutil==2.8.0
+pytz==2019.2
+six==1.12.0
+sqlparse==0.3.0
+strsim==0.0.3
