@@ -31,3 +31,5 @@ EndPoints
   *returns .csv File with metadata information 
         title,contributors,iswc
         'BLOW','Ed Sheeran|Bruno Mars|Cris Stapleton','T0046951705'
+
+images examples of PostMan Request on Examples directory
