@@ -1,4 +1,4 @@
-Django==2.2.5
+Django==2.2.27
 django-pgviews==0.5.5
 djangorestframework==3.10.3
 numpy==1.17.2
