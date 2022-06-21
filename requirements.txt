@@ -1,7 +1,7 @@
 Django==2.2.5
 django-pgviews==0.5.5
 djangorestframework==3.10.3
-numpy==1.17.2
+numpy==1.22.0
 pandas==0.25.1
 psycopg2-binary==2.8.3
 python-dateutil==2.8.0
